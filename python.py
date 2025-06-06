@@ -20,7 +20,7 @@ def actualizar_readme():
       "noviembre",
       "diciembre"
     ]
-    mes_actual_nombre =  nombres_meses[mes_actual]
+    mes_actual_nombre =  nombres_meses[mes_actual - 1]
 
     try:
         with open("README.md", "r") as archivo:
