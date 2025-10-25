@@ -1,5 +1,5 @@
 # ¡GitHub Actions!
-* **Repositorio actualizado automáticamente mediante una GitHub Action a las: `21:36:46hrs.`**
-* **Modificado el día: `24, del mes de octubre, del año 2025.`**
+* **Repositorio actualizado automáticamente mediante una GitHub Action a las: `00:31:58hrs.`**
+* **Modificado el día: `25, del mes de octubre, del año 2025.`**
 
 * Ejemplo sencillo de cómo la **Action** modifica este archivo README.md.
